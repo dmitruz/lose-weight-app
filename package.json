@@ -1,5 +1,5 @@
 {
-  "name": "react-homework-template",
+  "name": "c",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -66,5 +66,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitruz/lose-weight-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmitruz/lose-weight-app/issues"
+  },
+  "homepage": "https://github.com/dmitruz/lose-weight-app#readme"
 }
